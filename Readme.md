@@ -1,3 +1,3 @@
 # hello, world!
 
-I stay Netologia
+I stay Netology
